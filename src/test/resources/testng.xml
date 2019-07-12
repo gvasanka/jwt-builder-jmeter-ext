@@ -1,0 +1,8 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name="jmeter-ext-tests">
+    <test name="jmeter-ext-tests" preserve-order="true" parallel="false">
+        <classes>
+<!--            <class name="org.asanka.test.jmeter.ext.test.JWTTokenTestCase"/>-->
+        </classes>
+    </test>
+</suite>
