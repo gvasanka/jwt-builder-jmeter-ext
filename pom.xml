@@ -133,7 +133,7 @@
         <sonar.projectKey>TestA1000</sonar.projectKey>
         <sonar.projectName>jwt-builder-jmeter-ext</sonar.projectName>
         <sonar.java.coveragePlugin>jacoco</sonar.java.coveragePlugin>
-        <nimbus.jose.jwt.version>5.4</nimbus.jose.jwt.version>
+        <nimbus.jose.jwt.version>7.9</nimbus.jose.jwt.version>
         <maven.findbugsplugin.version>3.0.5</maven.findbugsplugin.version>
         <commons-logging.version>1.2</commons-logging.version>
 		<testng.version>6.11</testng.version>
